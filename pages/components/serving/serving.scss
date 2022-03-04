@@ -1,0 +1,11 @@
+.serving{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 4rem 0;
+    figure{
+        max-width: 700px;
+        width: 100%;
+        margin-top: 1rem;
+    }
+}
